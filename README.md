@@ -42,10 +42,17 @@ Registro de cada transação de compra de criptomoeda.
 - `cripto_id`: Criptomoeda envolvida (FK)
 - `quantidade`: Quantidade de criptomoeda adquirida
 - `valor_total`: Valor da transação em moeda local
-- `data_transacao`: Data/hora da transação
+- `data_transacao`: Data/hora da transação!
+
   
 ## Exemplo de resultado das consultas: 
 ![EXEMPLOS](https://github.com/user-attachments/assets/fc8b3ec4-4077-4d1f-914b-6babe25a1114)
+
+![exemplo2](https://github.com/user-attachments/assets/0c2325ac-4d73-4e7e-aadd-869905ff2812)
+![exemplo 3](https://github.com/user-attachments/assets/71605ea4-ebb7-4a38-afac-bedfdca2cd44)
+
+
+
 
 ## 👥 Participantes
 
